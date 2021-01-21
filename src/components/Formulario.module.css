@@ -1,0 +1,16 @@
+.formContainer{
+  display: flex;
+
+}
+.inputContainer{
+  display: flex;
+
+}
+.form{
+  margin-left:4rem;
+  width:1000px;
+}
+.botaoContainer{
+  display: flex;
+  justify-content: flex-end;
+}
